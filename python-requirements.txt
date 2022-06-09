@@ -10,3 +10,4 @@ git+https://github.com/lowRISC/fusesoc.git@ot
 
 pyyaml
 mako
+pyserial
