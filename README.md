@@ -1,5 +1,9 @@
 # Ibex Super System
 
+Ibex Super System is **DEPRECATED**, and has become the
+[Ibex Demo System](https://github.com/lowRISC/ibex-demo-system) which is
+maintained by lowRISC.
+
 This an example RISC-V SoC targeting the Arty-A7 FPGA board. It comprises the
 [lowRISC Ibex core](https://www.github.com/lowrisc/ibex) along with the
 following features:
